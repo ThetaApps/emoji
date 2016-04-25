@@ -1,6 +1,6 @@
 # Twitter Emoji
 
-![example](example.png)
+![![example](example.png)](example.svg)
 
 Used by Twitter apps and services to ensured support of emoji.
 
