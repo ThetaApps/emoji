@@ -1,6 +1,8 @@
 # Twitter Emoji
 
-![![example](example.png)](example.svg)
+![![example](vector/1f600.svg)](example.svg)
+
+<img src="https://raw.githubusercontent.com/ThetaApps/emoji/gh-pages/twemoji/example.svg" alt="https://raw.githubusercontent.com/ThetaApps/emoji/gh-pages/twemoji/example.svg" title="Title" />
 
 Used by Twitter apps and services to ensured support of emoji.
 
