@@ -1,6 +1,6 @@
 # Twitter Emoji
 
-![![example](vector/1f600.svg)](example.svg)
+![example](vector/1f600.svg)
 
 <img src="https://raw.githubusercontent.com/ThetaApps/emoji/gh-pages/twemoji/example.svg" alt="https://raw.githubusercontent.com/ThetaApps/emoji/gh-pages/twemoji/example.svg" title="Title" />
 
